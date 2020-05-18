@@ -13,7 +13,7 @@ ___
 3. use matrix factorization to calculate book rating for all the user
 4. recommend top 10 books for new user based on similar user's book recommendation from matrix factorization
 
-** You can download the trained embeddings:
+**You can download the trained embeddings:**
 - https://flask-uploads.s3.ap-northeast-2.amazonaws.com/pickles/book_norm.npy
 - https://flask-uploads.s3.ap-northeast-2.amazonaws.com/pickles/book_rating_emb.h5
 - https://flask-uploads.s3.ap-northeast-2.amazonaws.com/pickles/r_norm.npy
